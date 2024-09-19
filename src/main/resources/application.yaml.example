@@ -52,6 +52,3 @@ telegram:
   bot:
     username: username
     token: token
-
-server:
-  port: 9090
